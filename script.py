@@ -7,4 +7,4 @@ Run analysis
 Make table
 Make header boald
 
-Make small figure
+Make small figure, red line
